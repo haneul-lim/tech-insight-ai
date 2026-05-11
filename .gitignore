@@ -39,3 +39,5 @@ out/
 # API Keys & Secrets
 application.yml
 application-secret.yml
+
+.env
